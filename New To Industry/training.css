@@ -1,6 +1,7 @@
 html {
   display: block;
   scroll-behavior: smooth;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -113,7 +114,7 @@ header {
   letter-spacing: 2px;
   color: #585757;
   background-color: transparent;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -159,7 +160,7 @@ header {
   border-radius: 71px;
   font-size: 18px;
   font-weight: 400;
-  font-family: cursive;
+  /* font-family: cursive; */
 }
 
 .root2 {
@@ -237,7 +238,7 @@ header {
   letter-spacing: 2px;
   color: #e7332b;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   line-height: 120%;
   text-align: center;
@@ -247,7 +248,7 @@ header {
   margin: auto;
   padding-top: 1.5%;
   font-size: 49px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 700;
   line-height: 110%;
   text-align: center;
@@ -287,7 +288,7 @@ header {
   margin: auto;
   width: 68%;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   line-height: 120%;
   color: #1b1a20;
@@ -318,7 +319,7 @@ header {
   border-radius: 71px;
   font-size: 18px;
   font-weight: 400;
-  font-family: cursive;
+  /* font-family: cursive; */
   z-index: 0;
 }
 
@@ -414,7 +415,7 @@ hr {
   margin: auto;
   letter-spacing: 1px;
   font-size: 24px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 600;
   padding-top: 0;
   color: #1b1a20;
@@ -465,7 +466,7 @@ hr {
   margin: auto;
   width: 100%;
   font-size: 24px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   line-height: 130%;
   padding-top: 30px;
@@ -515,7 +516,7 @@ hr {
 
 .p6 {
   margin: auto;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-size: 24px;
   font-weight: 400;
   line-height: 120%;
@@ -530,7 +531,7 @@ hr {
 
 .p7 {
   margin: auto;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-size: 40px;
   font-weight: 700;
   line-height: 120%;
@@ -618,7 +619,7 @@ hr {
 }
 
 .box1 {
-  font-family: cursive;
+  /* font-family: cursive; */
   border-radius: 18px;
   padding: 58px 48px 93px 50px;
   box-shadow: 0 11px 22px rgb(231, 51, 43);
@@ -675,7 +676,7 @@ hr {
 }
 
 .box2 {
-  font-family: cursive;
+  /* font-family: cursive; */
   border-radius: 18px;
   padding: 58px 48px 93px 50px;
   box-shadow: 0 11px 22px rgb(231, 51, 43);
@@ -744,7 +745,7 @@ hr {
 .p11 {
   margin-bottom: 0px;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   line-height: 120%;
   letter-spacing: 1px;
@@ -755,7 +756,7 @@ hr {
   margin-top: 0px;
   width: 95%;
   font-size: 40px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 700;
   line-height: 120%;
   letter-spacing: 1px;
@@ -766,7 +767,7 @@ hr {
   margin-bottom: 35px !important;
   padding-top: 42px;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   line-height: 120%;
   letter-spacing: 1px;
@@ -790,7 +791,7 @@ hr {
   border-radius: 71px;
   font-size: 18px;
   font-weight: 400;
-  font-family: cursive;
+  /* font-family: cursive; */
   z-index: 0;
 }
 
@@ -829,7 +830,7 @@ button {
   min-width: 64px;
   padding: 5px 20px;
   font-size: 15px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   border: 2px solid #fff;
   border-radius: 79px;
@@ -965,7 +966,7 @@ button {
 
 .p15 {
   font-size: 20px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 700;
   letter-spacing: 1px;
   color: #1b1a20;
@@ -988,7 +989,7 @@ button {
 
 .p16 {
   font-size: 16px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   letter-spacing: 1px;
   line-height: 130%;
@@ -1030,7 +1031,7 @@ button {
   margin-top: -40px;
   margin-bottom: 0;
   color: #e7332b;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-size: 24px;
   font-weight: 400!;
   line-height: 120%;
@@ -1040,7 +1041,7 @@ button {
 .p18 {
   margin-top: 0;
   color: #1b1a20;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-size: 40px;
   font-weight: 700!;
   line-height: 120%;
@@ -1066,14 +1067,14 @@ button {
 
 .faqs-wrapper {
   margin: auto;
-  font-family: cursive;
+  /* font-family: cursive; */
   border: 1px solid #000;
   width: 90%;
   padding: 30px 20px;
 }
 
 .faqs-answer {
-  font-family: cursive;
+  /* font-family: cursive; */
   width: 100%;
   padding: auto;
 }
@@ -1124,7 +1125,7 @@ button {
 
 .p19 {
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
 }
 
@@ -1189,7 +1190,7 @@ button {
   margin-top: -50px;
   margin-bottom: 0px;
   font-size: 24px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   letter-spacing: 1px;
   color: #e7332b;
@@ -1208,7 +1209,7 @@ button {
   text-align: center;
   padding-bottom: 20px;
   font-size: 40px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -1221,7 +1222,7 @@ button {
 
 .p22 {
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   padding-bottom: 60px;
   text-align: center;
@@ -1268,7 +1269,7 @@ button {
   background: #1b1a20;
   border: 1px solid #fff;
   color: #fff;
-  font-family: cursive;
+  /* font-family: cursive; */
   letter-spacing: 1px;
   border-radius: 65px;
   box-shadow: 0 31px 60px rgba(231, 51, 43, 0.2);
@@ -1392,7 +1393,7 @@ li {
   text-align: center;
   color: #fff;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   letter-spacing: 1px;
   width: 100%;
@@ -1404,7 +1405,7 @@ li {
   text-align: center;
   color: #fff;
   font-size: 55px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 700;
   letter-spacing: 1px;
   line-height: 120%;
@@ -1425,7 +1426,7 @@ li {
   color: #e7332b;
   background-color: #fff;
   font-size: 18px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   letter-spacing: 1px;
   border-radius: 71px;
@@ -1518,7 +1519,7 @@ li {
   display: flex;
   justify-content: space-between;
   font-size: 16px;
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 400;
   color: #1b1a20;
 }
