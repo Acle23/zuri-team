@@ -2,7 +2,7 @@
     margin: 0;
     box-sizing: border-box;
     overflow-x: hidden;
-    font-family: cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -185,7 +185,7 @@ button {
 
 .curl1 {
     margin-top: -24px;
-    margin-left: 438px;
+    margin-left: 370px;
 }
 
 @media screen and (max-width: 530px) and (min-width: 450px) {
